@@ -43,7 +43,7 @@ tags:
 
 <a id="what-is-a-git"></a>
 ## What is a git
-     git 帮助我们进行代码的版本控制，我于2015/10/1花费一天时间学习一个关于git的视频,然后再参考几篇博客,将git的使用方法全部弄清楚。let's begin!
+     git (a) 帮助我们进行代码的版本控制，我于2015/10/1花费一天时间学习一个关于git的视频,然后再参考几篇博客,将git的使用方法全部弄清楚。let's begin!
 
 <a id="preparation"></a>
 ##Preparation
