@@ -9,7 +9,7 @@
 title: "姚信的技术专栏2"
 brief-intro: "System Research"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://XinYao1994.github.io" # the base hostname & protocol for your site
+url: "https://caoxiaoqin.github.io/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
