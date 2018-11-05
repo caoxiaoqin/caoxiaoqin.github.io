@@ -72,7 +72,7 @@ tag_dir: tag/
 # excerpt
 excerpt_separator: "\n\n\n\n"
 
-# paginate
+#paginate
 plugins: [jekyll-paginate]
 paginate: 6
 port: 4001
