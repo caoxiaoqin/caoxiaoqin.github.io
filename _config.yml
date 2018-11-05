@@ -40,7 +40,7 @@ gitalk:
   admin: caoxiaoqin
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
-# statistic analysis 统计代码
+# statistic analysis 统计代码   a
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
