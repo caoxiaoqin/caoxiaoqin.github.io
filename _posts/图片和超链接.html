@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>图片和超链接</title>
+	</head>
+	<body>
+		<!--1 图片标签：img标签（单标签）
+		src属性：图片的地址 （地址可以是网络地址 或者是本地的地址）
+		title属性：是设置图片的标题（鼠标在图片上等一会出现的文字）
+		alt属性： 用来设置图片加载失败的时候的提示信息
+		-->
+		<img id="1" src="img/第二阶段.png"/>
+		<img id="2" src="img/2018-9-14 下午2.52 拍摄的照片.jpg">
+		<img id="3" src="https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2582545564,2566378402&fm=173&app=25&f=JPEG?w=640&h=619&s=2951AB4AE58622FEC4ECC9960300D0C3"/>
+		<img src="img/12935850,1440,900.jpg"  title="小鸟" alt="加载失败"/>
+		<!--2 超链接标签：a标签
+			想要点击跳转的地方都可以使用超链接语法
+			href属性；跳转目标对应的地址
+			 其他的网页地址-----跳转
+			 写本地的一个html路径-----跳转
+			 空-------刷新当前网页（重新加载）
+			 选择器-----让网页跳转到指定的位置
+			target属性：设置跳转方式
+				_self(默认值)：在当前页面里刷新出新的内容
+				_blank：创建一个新的页面 在新的页面里刷新出href指定的内容
+				注意：刷新当前网页和当前网页中跳转到知道位置的时候
+					只能使用默认值_self
+		-->
+		<a target="_blank" href="http://www.baidu.com">百度一下</a>
+		<a href="01-文本标签.html">文本标签</a>
+		<a href="">刷新</a>
+		<a href="#1">第一张</a>
+		<a href="#3">第三张</a>
+		
+	</body>
+</html>
